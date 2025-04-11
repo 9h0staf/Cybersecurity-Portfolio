@@ -4,8 +4,7 @@
 Hi, I’m Gustaf (nickname: 9h0staf_), an entry-level pentester and SOC analyst based in Indonesia. I’m passionate about cybersecurity and have hands-on experience with tools like Nmap, Wireshark, and Splunk. I’m seeking remote opportunities to apply my skills in penetration testing and security operations.
 
 - **Location**: Jakarta, Indonesia
-- **Email**: gustaf.ardana@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/gustafardana
+- **Email**: syiro.digibit@gmail.com
 - **Certifications**: Working toward CompTIA PenTest+ & eJPT
 ## Skills
 - **Penetration Testing**: Network scanning (Nmap), traffic analysis (Wireshark), vulnerability assessment
@@ -51,5 +50,5 @@ Hi, I’m Gustaf (nickname: 9h0staf_), an entry-level pentester and SOC analyst 
 
 ## Contact Me
 Feel free to reach out for opportunities or collaboration:
-- Email: gustaf.ardana@gmail.com
+- Email: syiro.digibit@gmail.com
 - GitHub: https://github.com/9h0staf
