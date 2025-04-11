@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio - Gustaf
 
 ## About Me
-Hi, I’m Gustaf (nickname: 9h0staf_), an entry-level pentester and SOC analyst based in Indonesia. I’m passionate about cybersecurity and have hands-on experience with tools like Nmap, Wireshark, and Splunk. I’m seeking remote opportunities to apply my skills in penetration testing and security operations.
+Hi, I’m Gustaf (nickname: 9h0staf_), a pentester and SOC analyst based in Indonesia. I’m passionate about cybersecurity and have hands-on experience with tools like Nmap, Wireshark, and Splunk. I’m seeking remote opportunities to apply my skills in penetration testing and security operations.
 
 - **Location**: Jakarta, Indonesia
 - **Email**: syiro.digibit@gmail.com
